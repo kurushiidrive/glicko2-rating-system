@@ -1,0 +1,4 @@
+*.o
+glicko2-client
+player-data/*
+!player-data/.gitkeep
